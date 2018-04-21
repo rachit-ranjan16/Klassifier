@@ -12,10 +12,10 @@ CAP6610 Project 2: Classification using Kernel Methods
  - Activate virtual environment
  - Navigate to the code directory
  - Execute on Terminal
-  - `pip install -r requirements.txt`
-  - `pip install -r requirements_rvm.txt`
-  - `jupyter notebook`
+   - `pip install -r requirements.txt`
+   - `pip install -r requirements_rvm.txt`
+   - `jupyter notebook`
  - Navigate to the jupyter notebook that pops on your browser
-  - Open `Classification.ipynb`
-  - Follow Markup Instructions
+   - Open `Classification.ipynb`
+   - Follow Markup Instructions
 
