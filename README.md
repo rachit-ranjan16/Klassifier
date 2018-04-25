@@ -11,6 +11,7 @@ CAP6610 Project 2: Classification using Kernel Methods
 ### Setup Instructions
  - Activate virtual environment
  - Navigate to the code directory
+ - In case any of the trained models SVM.pkl, RVM.pkl, GPR.pkl are absent from submission, ensure downloading them manually from this <a href="https://github.com/rachit-ranjan16/Klassifier"> git repo </a>
  - Execute on Terminal
    - `pip install -r requirements.txt`
    - `pip install -r requirements_rvm.txt`
